@@ -1,3 +1,4 @@
+![Selfshot](20210919_130825.jpg)
 # PogoDummies
 Reading through GitHub for Dummies
 
